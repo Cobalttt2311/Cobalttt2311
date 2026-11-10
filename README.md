@@ -1,10 +1,6 @@
 <div align="center">
 
   <!-- Header Banner Dinamis / Typing SVG -->
-  <a href="https://cobalttt2311.github.io/portofolio">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Nalendra+Praja+👋;Backend+Engineer+&+Data+Enthusiast;Building+Scalable+APIs+&+Microservices;Spring+Boot+|+FastAPI+|+Laravel+|+.NET" alt="Typing SVG" />
-  </a>
-
   <p align="center">
     <b>Associate of Computer Engineering @ Politeknik Negeri Bandung (POLBAN)</b><br/>
     <i>Passionate about Backend Systems, Distributed Architecture, Data Engineering & AI</i>
