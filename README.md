@@ -34,12 +34,12 @@
 name: Nalendra Praja Bredtyopati Yudo
 current_focus:
   - Designing High-Performance RESTful APIs & Microservices
-  - Data Engineering Pipelines & Data Ingestion (Formula 1 Analytics Pipeline)
-  - Exploring Machine Learning & Computer Vision (MediaPipe, CNNs)
+  - Data Engineering Pipelines & Data Ingestion 
+  - Exploring Machine Learning & AI 
 work_experience:
   - Web Developer @ Kementerian Pekerjaan Umum RI
   - Ex-Backend Engineer Intern @ PT Neural Technologies Indonesia
-hobbies: [Formula 1 Analytics, Algorithmic Problem Solving, Building CLI Tools]
+hobbies: [Formula 1, Football, Anime, Movie and Books]
 ```
 
 ---
